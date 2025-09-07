@@ -95,7 +95,7 @@ Thanks to the amazing team behind BharatAI Bazaar:
 
 - [Tarini Agarwal](https://github.com/Tarini-Ag)  
 - [Ojus Mathur](https://github.com/mathurojus)  
-- [Yashita Gaur](https://github.com/)  
+- [Yashita Gaur](https://github.com/yashita099)  
 - [Himanshu Chauhan](https://github.com/shivanshu012)  
 
 
