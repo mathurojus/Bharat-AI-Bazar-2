@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40ecce32e407d5c48755ec1beb48321db037b9cc47": {
+      "workers": {
+        "app/cart/page": {
+          "moduleId": "[project]/.next-internal/server/app/cart/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/cart/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
