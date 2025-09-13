@@ -47,6 +47,13 @@ The goal of **BharatAI Bazaar** is to leverage **Generative AI** to create a sma
 - 📱 **Responsive Design**: Works seamlessly across desktop & mobile.  
 
 ---
+## Video Demo
+
+Check out this quick video walkthrough to see how the project works:
+
+[▶️ Watch on YouTube](https://youtu.be/TK5w000KGKY)
+
+---
 
 ## 🚀 Installation  
 
@@ -88,12 +95,6 @@ Visit 👉 [http://localhost:9002](http://localhost:9002).
 - **/seller/calculator** → Advanced Profit Calculator tool 
 
 ---
-## Video Demo
-
-Check out this quick video walkthrough to see how the project works:
-
-[▶️ Watch on YouTube](https://youtu.be/TK5w000KGKY)
-
 
 ## 👥 Contributors  
 
