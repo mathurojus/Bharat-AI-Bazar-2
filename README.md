@@ -54,6 +54,13 @@ Check out this quick video walkthrough to see how the project works:
 [▶️ Watch on YouTube](https://youtu.be/TK5w000KGKY)
 
 ---
+## Presentation
+
+You can view or download the project presentation here:
+
+[📥 Download the PowerPoint Presentation (.pptx)](https://1drv.ms/p/c/cad177bb7aadd31c/EVplS53jReBGnrQE5nyF4DQBDRUEJDwDNIocz3ReqSUhpg?e=wmo2JP)
+
+---
 
 ## 🚀 Installation  
 
